@@ -1,4 +1,5 @@
 react-native 入坑之 hello world demo
+--
 
 >垂涎react-native已久，初次相识还是半年前，朋友带我入坑，后来不了了之。后来因为工作需要，要经常用webapp跟native交互，学习react-native是为了跟好的跟app native协作。
 
